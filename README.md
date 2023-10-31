@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @NikolaDakov
+- 🌱 I’m currently learning ICT(Information Communication Technology)
+- 📫 How to reach me by email - nikoladakov438@gmail.com
