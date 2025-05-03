@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Nikola Dakov
 
-I'm a passionate Full Stack Developer based in the Netherlands 🇳🇱, specializing in building complete end-to-end web applications with Java (Spring Boot), React, MySQL, and modern tools like Flyway, WebSockets, and RESTful APIs. I'm always eager to solve real-world problems with clean, scalable code and thoughtful UI/UX design.
+I'm a passionate Full Stack Developer based in the Netherlands 🇳🇱 with a strong focus on building clean, scalable, and user-focused web applications. I specialize in Java (Spring Boot), React, MySQL, and modern development tools like Flyway, WebSockets, and RESTful APIs. 
+
+Beyond my main stack, I’ve also developed projects using **C# with Razor Pages (.NET)**, worked extensively with **MSSQL**, and built full-stack applications using **Python and Flask**. I enjoy working across the full development cycle — from system architecture and backend services to user interface design and deployment.
 
 ---
 
