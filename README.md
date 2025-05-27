@@ -54,9 +54,9 @@ A complete **property management platform**, designed for listing, reviewing, an
 - **Other Tools:** Cloudinary (image hosting), Cypress (E2E testing), GitLab CI/CD
 ---
 
-### 🛠️ Copaco Configurator – Component Compatibility Platform (Group Project)
+### 🛠️ Company Configurator – Component Compatibility Platform (Group Project)
 
-Developed in collaboration with **Copaco Ltd.**, this project aimed to build a dynamic product configurator that enables users to create valid end-product configurations based on component compatibility rules. The platform is designed for scalability and GDPR compliance, supporting use across various industries.
+Developed in collaboration with company partner of Fontys University, this project aimed to build a dynamic product configurator that enables users to create valid end-product configurations based on component compatibility rules. The platform is designed for scalability and GDPR compliance, supporting use across various industries.
 
 #### 👨‍💻 My Role
 I was primarily responsible for the **frontend development**, focusing on building a clean, intuitive user interface using **React**. I implemented key features including:
